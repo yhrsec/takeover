@@ -19,4 +19,4 @@ Make sure the following tools are installed:
 
 ### 1. Golang
 ```bash
-sudo apt update && sudo apt install golang -y
+sudo mv takeover.sh /usr/local/bin/takeover
