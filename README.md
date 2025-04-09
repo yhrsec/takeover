@@ -24,9 +24,3 @@ cd takeover
 chmod +x takeover.sh
 sudo mv takeover.sh /usr/local/bin/takeover
 
-### 1.Installation
-```bash
-git clone https://github.com/yhrsec/takeover.git
-cd takeover
-chmod +x takeover.sh
-sudo mv takeover.sh /usr/local/bin/takeover
