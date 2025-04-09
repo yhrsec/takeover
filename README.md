@@ -17,6 +17,14 @@ A powerful Bash automation script to detect vulnerable subdomains using `httpx` 
 
 Make sure the following tools are installed:
 
-### 1. Golang
+### 1.Installation
 ```bash
+git clone https://github.com/yhrsec/takeover.git
+cd takeover
+chmod +x takeover.sh
 sudo mv takeover.sh /usr/local/bin/takeover
+
+### 2.Usage Example:
+
+takeover [YOUR SUBDOMIN LIST]
+
