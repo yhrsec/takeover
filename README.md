@@ -24,3 +24,6 @@ cd takeover
 chmod +x takeover.sh
 sudo mv takeover.sh /usr/local/bin/takeover
 
+Usage Example:
+takeover [YOUR SUBDOMIN LIST]
+
